@@ -355,7 +355,7 @@ Run the cells sequentially to preprocess the data, train the model, evaluate its
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vishal Yadav**
 
 B.Tech — Computer Science & Engineering (AI & ML)
 
